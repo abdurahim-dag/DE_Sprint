@@ -1,0 +1,122 @@
+[
+{
+    "region": "Москва Москва",
+    "salary": null,
+    "title": "Бизнес-аналитик",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Москва Москва",
+    "salary": null,
+    "title": "Golang-разработчик (Рекомендательная система)",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Нижний Новгород ,  Московская Нижний Новгород ,  Московская",
+    "salary": null,
+    "title": "Ведущий инженер-программист (разработка и поддержка прикладных бизнес-решений)",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": null,
+    "salary": null,
+    "title": "Kotlin разработчик",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Новосибирск Новосибирск",
+    "salary": null,
+    "title": "Разработчик DWH",
+    "work_experience": "1–3 года"
+},
+{
+    "region": null,
+    "salary": null,
+    "title": "Senior developer C++",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": null,
+    "salary": "от  60 000   руб.   на руки",
+    "title": "Технический аналитик",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Тбилиси Тбилиси",
+    "salary": null,
+    "title": "Unix Administrator",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Санкт-Петербург Санкт-Петербург",
+    "salary": "до  120 000   руб.   на руки",
+    "title": "Middle PHP Laravel разработчик (удалённо)",
+    "work_experience": "1–3 года"
+},
+{
+    "region": null,
+    "salary": null,
+    "title": "Инженер по тестированию ПО (ручное+авто)",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Казань Казань",
+    "salary": "от  120 000  до  150 000   руб.   на руки",
+    "title": "Frontend-разработчик (VueJS)",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Хабаровск Хабаровск",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Екатеринбург Екатеринбург",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": null,
+    "salary": "от  150 000  до  250 000   руб.   на руки",
+    "title": "Инженер по портированию Linux (OpenBMC)",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Ярославль Ярославль",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Челябинск Челябинск",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": null,
+    "salary": "от  60 000  до  100 000   руб.   на руки",
+    "title": "Инженер-программист встраиваемых систем (embedded developer)",
+    "work_experience": "1–3 года"
+},
+{
+    "region": "Воронеж Воронеж",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Москва Москва",
+    "salary": null,
+    "title": "Аналитик (Дирекция Закупок)",
+    "work_experience": "3–6 лет"
+},
+{
+    "region": "Волгоград Волгоград",
+    "salary": "от  100 000  до  170 000   руб.   на руки",
+    "title": "Ведущий сетевой инженер в ЦОД",
+    "work_experience": "3–6 лет"
+}
+]
