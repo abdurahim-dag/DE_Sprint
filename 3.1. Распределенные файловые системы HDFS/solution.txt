@@ -1,0 +1,8 @@
+import org.apache.spark.sql.SparkSession
+
+val spark = SparkSession.builder().master("local[1]").appName("XYZ").getOrCreate()
+val txt = spark.read.textFile("/user/ragim/merged.txt")
+txt.count()
+txt.first()
+val wordsCounts = txt.flatMap(line => line.split(" ")).groupByKey(identity).count()
+wordsCounts.show(10)
