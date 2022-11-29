@@ -4,6 +4,15 @@ create database "tested";
 
 create schema "tested";
 
+CREATE TABLE IF NOT EXISTS tested."departments"
+(
+    "DEP_ID" bigserial NOT NULL,
+    "DEP_NAME" character varying(200),
+    "DEP_LEAD" character varying(200),
+    "DEP_EMP_COUNT" smallint,
+    PRIMARY KEY ("DEP_ID")
+);
+
 create table tested.employees
 (
     "EMP_ID" bigserial  primary key,
@@ -16,15 +25,6 @@ create table tested.employees
     "EMP_DEPARTMENT_ID" bigint       not null
         references tested.departments,
     "EMP_DRIVER"        boolean
-);
-
-CREATE TABLE IF NOT EXISTS tested."departments"
-(
-    "DEP_ID" bigserial NOT NULL,
-    "DEP_NAME" character varying(200),
-    "DEP_LEAD" character varying(200),
-    "DEP_EMP_COUNT" smallint,
-    PRIMARY KEY ("DEP_ID")
 );
 
 CREATE TABLE IF NOT EXISTS tested."SCORE"
