@@ -20,6 +20,7 @@ object App extends App{
   // a.
   val schemaStruct = StructType(
     StructField("id", IntegerType, true) ::
+    // |LongType|
     StructField("timestamp", IntegerType, true) ::
     StructField("type", StringType, true) ::
     StructField("page_id", IntegerType, true) ::
